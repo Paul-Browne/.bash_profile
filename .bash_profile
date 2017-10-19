@@ -12,4 +12,5 @@ alias qc='git commit -m'
 alias q1='git pull -r'
 alias q2='git push'
 
+# runs q1 then q2
 alias ww='q1; q2'
