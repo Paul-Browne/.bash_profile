@@ -11,3 +11,5 @@ alias qa='git add .'
 alias qc='git commit -m'
 alias q1='git pull -r'
 alias q2='git push'
+
+alias ww='q1; q2'
