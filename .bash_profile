@@ -6,18 +6,8 @@ alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall F
 alias https-server='http-server --ssl --cert ~/.ssl/localhost.crt --key ~/.ssl/localhost.key -a localhost -o'
 
 # git shortcuts
-alias qq='git status'
-alias qw='git add .'
-alias qe='git commit -m'
-
-# function qw(){
-# 	git add . 
-# }
-
-# function q1(){
-# 	git pull 
-# }
-
-# function q2(){
-# 	git push 
-# }
+alias qs='git status'
+alias qa='git add .'
+alias qc='git commit -m'
+alias q1='git pull -r'
+alias q2='git push'
