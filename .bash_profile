@@ -18,6 +18,10 @@ alias q2='git push'
 # runs q1 then q2
 alias ww='q1; q2'
 
+
+
+
+
 source ~/bash_profile/.setup_npm
 source ~/bash_profile/.setup_brew
 
