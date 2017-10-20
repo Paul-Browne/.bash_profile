@@ -20,3 +20,5 @@ alias ww='q1; q2'
 
 source ~/bash_profile/.setup_npm
 source ~/bash_profile/.setup_brew
+
+#bash <(curl -s https://raw.githubusercontent.com/Paul-Browne/bash_profile/master/test.txt)
